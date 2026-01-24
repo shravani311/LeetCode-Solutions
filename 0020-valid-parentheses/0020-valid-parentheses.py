@@ -13,7 +13,7 @@ class Solution:
             else:
                 return False
 
-        if len(st)==0 and len(s)>=2:
+        if len(st)==0:
             return True
         else:
             return False
