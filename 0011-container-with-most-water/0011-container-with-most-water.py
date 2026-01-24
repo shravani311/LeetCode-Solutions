@@ -5,8 +5,9 @@ class Solution:
         left_index=0
         right_index=n-1
         while left_index<right_index:
-            minimum=min([height[left_index],height[right_index]])
-            dist=minimum*(right_index-left_index)
+            h=min([height[left_index],height[right_index]])
+            w=right_index-left_index
+            dist=h*w
             maximum.append(dist)
             if height[left_index]<height[right_index]:
                 left_index+=1
