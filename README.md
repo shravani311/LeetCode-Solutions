@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shravani311/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/shravani311/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shravani311/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shravani311/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shravani311/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shravani311/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shravani311/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shravani311/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shravani311/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
 |  |
 | ------- |
