@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shravani311/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shravani311/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shravani311/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/shravani311/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shravani311/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shravani311/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shravani311/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shravani311/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -71,4 +73,5 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shravani311/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/shravani311/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
