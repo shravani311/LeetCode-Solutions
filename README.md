@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/shravani311/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shravani311/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shravani311/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/shravani311/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravani311/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/shravani311/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shravani311/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -57,8 +58,10 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shravani311/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shravani311/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shravani311/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravani311/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
