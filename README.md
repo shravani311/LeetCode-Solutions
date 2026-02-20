@@ -95,20 +95,24 @@
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/shravani311/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shravani311/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/shravani311/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/shravani311/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shravani311/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/shravani311/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/shravani311/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shravani311/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/shravani311/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shravani311/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/shravani311/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 <!---LeetCode Topics End-->
