@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravani311/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/shravani311/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shravani311/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/shravani311/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shravani311/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shravani311/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
@@ -117,4 +118,8 @@
 | [0404-sum-of-left-leaves](https://github.com/shravani311/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/shravani311/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/shravani311/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shravani311/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
