@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/shravani311/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shravani311/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shravani311/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/shravani311/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravani311/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/shravani311/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shravani311/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -68,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/shravani311/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/shravani311/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shravani311/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shravani311/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
