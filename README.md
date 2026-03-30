@@ -28,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/shravani311/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/shravani311/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shravani311/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/shravani311/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shravani311/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
@@ -45,6 +46,7 @@
 | [0020-valid-parentheses](https://github.com/shravani311/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravani311/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shravani311/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shravani311/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shravani311/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shravani311/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
@@ -71,6 +73,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/shravani311/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/shravani311/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shravani311/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shravani311/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shravani311/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shravani311/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
